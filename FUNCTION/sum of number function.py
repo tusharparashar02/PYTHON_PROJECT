@@ -6,7 +6,3 @@ def sum(numbers):
         total += x
     return total
 print(sum((8, 2, 3, 0, 7)))
-
-    © 2022 GitHub, Inc.
-
-    Terms
